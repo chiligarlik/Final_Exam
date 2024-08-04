@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="name1">Chest</string>
+    <string name="name2">Triceps</string>
+    <string name="name3"> Delts</string>
+    <string name="name4">Abs</string>
+    <string name="name5">Back</string>
+    <string name="name6">Biceps</string>
+    <string name="name7">Legs</string>
+    <string name="name8">Shoulder</string>
+    <string name="name9">Arm</string>
+    <string name="description1">Incline Smith Machine Press: 3 sets x 8-10</string>
+    <string name="description11">Flat Chest Press Machine: 3 sets x 8-10</string>
+    <string name="description12">Cable Chest Fly : 3 sets x 8-10</string>
+    <string name="description2">Tricep cable pushdown: 3 sets x 8-10</string>
+    <string name="description22">Skull Crushers: 3 sets x 8-10</string>
+    <string name="description3">Cable lateral raise: 4 sets x 8-10</string>
+    <string name="description4">Crunches: 3 sets x 8-10 </string>
+    <string name="description44"> Cable Crunches: 3 sets x 8-10 </string>
+    <string name="description5">Lat pulldown: 4 sets x 8-10</string>
+    <string name="description55">Straight arm Lat pullover: 3 sets x 8-10</string>
+    <string name="description56">Machine Row: 3 sets x 8-10</string>
+    <string name="description57">Seated V bar Row: 3 sets x 8-10</string>
+    <string name="description6">Biceps curl: 3 sets x 8-10</string>
+    <string name="description67">Hammer curl: 3 sets x 8-10</string>
+    <string name="description7">Barbell Squats: 3 sets x 8-10</string>
+    <string name="description77">Leg Curls: 3 sets x 8-10</string>
+    <string name="description78">Leg Extension: 2 sets to Failure</string>
+    <string name="description79">Calf Raises: 3 sets x 8-10</string>
+    <string name="description8">Seated Military Press: 3 sets x 8-10</string>
+    <string name="description88">Lateral Cable Raises: 3 sets x 8-10</string>
+    <string name="description9">Hammer Curls: 3 sets x 8-10</string>
+    <string name="description99">Triceps Cable PushDown: 3 sets x 8-10</string>
+    <string name="none"> </string>
+
+    <string name="expand_button_content_description">See more or less information.</string>
+    <string name="app_name">Workout Split</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="paddingsmall">8dp</dimen>
+    <dimen name="paddingmedium">16dp</dimen>
+    <dimen name="image_size">64dp</dimen>
+</resources>
